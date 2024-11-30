@@ -1,43 +1,53 @@
-ShotStat-App
-ShotStat-App is an Android application designed for weapon training enthusiasts, instructors, and teams. It provides a comprehensive platform to create, manage, and analyze weapon training sessions.
+# ShotStat-App  
 
-📋 Features
-Training Templates
-Create customizable templates for weapon training exercises, tailored for both individual and group needs.
+**ShotStat-App** is an Android application designed for weapon training enthusiasts, instructors, and teams.  
+It provides a comprehensive platform to create, manage, and analyze weapon training sessions.  
 
-Conduct and Record Sessions
-Use the app to run training sessions and automatically record performance data.
+## 📋 Features  
 
-Statistics and Insights
-Analyze performance with detailed statistics to improve future sessions.
+- **Training Templates**  
+  - Create customizable templates for weapon training exercises, tailored for both individual and group needs.  
 
-Group Training
-Create and manage training groups where members can share and access each other’s templates, fostering collaboration and improvement.
+- **Conduct and Record Sessions**  
+  - Use the app to run training sessions and automatically record performance data.  
 
-🛠 Technology Stack
-Game Engine: Unity
-Backend Services: Firebase
-Database & Authentication: Firebase Authentication and Firestore
-Other Integrations: Real-time data updates, cloud storage, and analytics
+- **Statistics and Insights**  
+  - Analyze performance with detailed statistics to improve future sessions.  
 
-📲 Installation
-Download the latest version of ShotStat.apk on your Android device.
-Install the app.
-Enjoy the application! 🎯
+- **Group Training**  
+  - Create and manage training groups where members can share and access each other’s templates, fostering collaboration and improvement.  
 
-🚀 Usage
-Set Up Templates:
-Navigate to the Templates section to create or customize a training template.
+## 🛠 Technology Stack  
 
-Start a Training Session:
-Select a template and start a session. The app will record performance data in real-time.
+- **Game Engine:** Unity
+- **Backend Services:** Firebase  
+- **Database & Authentication:** Firebase Authentication and Firestore  
+- **Other Integrations:** Real-time data updates, cloud storage, and analytics  
 
-View Statistics:
-After completing a session, go to the Statistics section to review performance metrics.
+## 📲 Installation  
 
-Manage Groups:
-Use the Groups section to create or join training groups, collaborate with members, and share templates.
+1. **Download** the latest version of **ShotStat.apk** on your Android device.  
+2. **Install** the app.  
+3. **Enjoy** the application! 🎯  
 
-🤝 Contributing
-Contributions are welcome!
-Feel free to fork this repository and submit pull requests for new features, bug fixes, or enhancements.
+## 🚀 Usage  
+
+1. **Set Up Templates:**  
+   Navigate to the **Templates** section to create or customize a training template.  
+
+2. **Start a Training Session:**  
+   Select a template and start a session. The app will record performance data in real-time.  
+
+3. **View Statistics:**  
+   After completing a session, go to the **Statistics** section to review performance metrics.  
+
+4. **Manage Groups:**  
+   Use the **Groups** section to create or join training groups, collaborate with members, and share templates.  
+
+## 🤝 Contributing  
+
+**Contributions are welcome!**  
+Feel free to fork this repository and submit pull requests for:  
+- **New features**  
+- **Bug fixes**  
+- **Enhancements**  
