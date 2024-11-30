@@ -19,10 +19,12 @@ Game Engine: Unity
 Backend Services: Firebase
 Database & Authentication: Firebase Authentication and Firestore
 Other Integrations: Real-time data updates, cloud storage, and analytics
+
 📲 Installation
 Download the latest version of ShotStat.apk on your Android device.
 Install the app.
 Enjoy the application! 🎯
+
 🚀 Usage
 Set Up Templates:
 Navigate to the Templates section to create or customize a training template.
