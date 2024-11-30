@@ -39,4 +39,3 @@ Use the Groups section to create or join training groups, collaborate with membe
 🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repository and submit pull requests for new features, bug fixes, or enhancements.
-
