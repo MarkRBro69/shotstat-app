@@ -50,4 +50,8 @@ It provides a comprehensive platform to create, manage, and analyze weapon train
 Feel free to fork this repository and submit pull requests for:  
 - **New features**  
 - **Bug fixes**  
-- **Enhancements**  
+- **Enhancements**
+
+## 📸 Screenshots
+
+![Login](https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193516_ShotStat.jpg)
