@@ -54,4 +54,10 @@ Feel free to fork this repository and submit pull requests for:
 
 ## 📸 Screenshots
 
-![Login](https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193516_ShotStat.jpg)
+<div style="display: flex; gap: 10px;">
+  <img src="https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193516_ShotStat.jpg" alt="Описание" width="260" height="480">
+  <img src="https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193558_ShotStat.jpg" alt="Описание" width="260" height="480">
+  <img src="https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193615_ShotStat.jpg" alt="Описание" width="260" height="480">
+  <img src="https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193804_ShotStat.jpg" alt="Описание" width="260" height="480">
+  <img src="https://github.com/MarkRBro69/shotstat-app/blob/main/Screenshot_20241201-193829_ShotStat.jpg" alt="Описание" width="260" height="480">
+</div>
